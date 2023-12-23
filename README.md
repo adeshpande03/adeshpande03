@@ -5,9 +5,7 @@ I am a Physics major currently studying at the University of Texas - Austin! -->
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 		            .bg{}
-				
-		        </style>
-			<div>
+			</style>
 		<h1> Akhil Deshpande </h1>
                 <p> I am currently a senior studying Physics at the University of Texas, Austin.</p>
                 <p> Some things about me:</p>
