@@ -3,7 +3,9 @@ I am a Physics major currently studying at the University of Texas - Austin! -->
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style></style>
+			<style>
+            .bg{}
+            </style>
 			<div>
 				<h1> Akhil Deshpande </h1>
                 <p> I am currently a senior studying Physics at the University of Texas, Austin.</p>
