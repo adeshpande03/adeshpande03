@@ -81,16 +81,9 @@
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 			</style>
-			<div>
-				<h1> Akhil Deshpande </h1>
-                <p> I am currently a senior studying Physics at the University of Texas, Austin.</p>
-                <p> Some things about me:</p>
-                <ul>
-                <li>I am pursuing a career path in Computer Science.</li>
-                <li>I enjoy competive programming! You can find my Leetcode and AOC submissions in my repositories!</li>
-                <li>My favorite project is Fixify, a webapp I created using Flask to solve a personal problem of mine.</li>
-                <li>I also enjoy web development! Check out a website I created for my organization <a href="https://texasica.github.io">here</a>!
-                </ul>
+			<div class="container">
+				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
+				<p>Click to see the source</p>
 			</div>
 		</div>
 	</foreignObject>
