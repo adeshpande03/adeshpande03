@@ -4,10 +4,10 @@ I am a Physics major currently studying at the University of Texas - Austin! -->
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-            .bg{}
-            </style>
+		            .bg{}
+		        </style>
 			<div>
-				<h1> Akhil Deshpande </h1>
+		<h1> Akhil Deshpande </h1>
                 <p> I am currently a senior studying Physics at the University of Texas, Austin.</p>
                 <p> Some things about me:</p>
                 <ul>
