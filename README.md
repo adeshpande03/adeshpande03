@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Akhil Deshpande!
+I am a Physics major currently studying at the University of Texas - Austin!
 
 <!--
 **adeshpande03/adeshpande03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
