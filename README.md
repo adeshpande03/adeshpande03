@@ -9,7 +9,7 @@
 <p align="center">
 	<a 
 	href="https://git.io/streak-stats">
-	<img src="https://streak-stats.demolab.com?user=adeshpande03&theme=sea-dark&border_radius=10&card_width=800" 
+	<img src="https://github-readme-streak-stats-kappa-three.vercel.app?user=adeshpande03&theme=sea-dark&border_radius=10&card_width=800" 
 		 alt="GitHub Streak" 
 		 />
 	</a>
