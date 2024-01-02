@@ -6,4 +6,4 @@
 	<br>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=adeshpande03&theme=sea-dark&border_radius=10&card_width=800)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adeshpande03&theme=sea-dark&border_radius=10&card_width=800" alt="GitHub Streak" /></a>
