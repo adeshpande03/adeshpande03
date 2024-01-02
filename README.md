@@ -1,5 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adeshpande03)](https://git.io/streak-stats)
-
 <div align="center">
 	<br>
 	<a href="https://github.com/adeshpande03/adeshpande03/blame/main/header.svg">
@@ -7,3 +5,5 @@
 	</a>
 	<br>
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adeshpande03)](https://git.io/streak-stats)
