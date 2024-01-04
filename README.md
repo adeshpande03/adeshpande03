@@ -8,7 +8,7 @@
 
 <p align="center">
 	<a 
-	href="https://git.io/streak-stats">
+	href="https://github.com/adeshpande03/github-readme-streak-stats">
 	<img src="https://github-readme-streak-stats-kappa-three.vercel.app?user=adeshpande03&theme=sea-dark&border_radius=10&card_width=800" 
 		 alt="GitHub Streak" 
 		 />
