@@ -13,8 +13,8 @@
 	</a>
 </div>
 
-<div align="center" border_radius=10>
+<div align="center">
 	<a href="https://github.com/adeshpande03/LeetCode-Points-Graph">
-		<img src="points_graph.png" width="800" height="600" alt="LeetCode points graph for @impgriffin (me!)">
+		<img src="points_graph.png" width="800" height="200" alt="LeetCode points graph for @impgriffin (me!)">
 	</a>
 </div>
