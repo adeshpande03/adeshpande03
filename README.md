@@ -13,8 +13,8 @@
 	</a>
 </div>
 
-<div align="center">
-	<a href="https://github.com/adeshpande03/adeshpande03/blame/main/header.svg">
-		<img src="graph.svg" width="800" height="600" alt="Click to see the source">
+<div align="center" border_radius=10>
+	<a href="https://github.com/adeshpande03/LeetCode-Points-Graph">
+		<img src="points_graph.png" width="800" height="600" alt="LeetCode points graph for @impgriffin (me!)">
 	</a>
 </div>
