@@ -6,7 +6,7 @@
                 border-radius: 10;
             }
             </style>
-            <image src="https://github.com/adeshpande03/adeshpande03/blob/main/points_graph.png?raw=true" width="800" height="250" alt="LeetCode points graph for @impgriffin (me!)" />
+            <image href="https://github.com/adeshpande03/adeshpande03/blob/main/points_graph.png?raw=true" width="800" height="250" alt="LeetCode points graph for @impgriffin (me!)" />
         </div>
     </foreignObject>
 </svg>
