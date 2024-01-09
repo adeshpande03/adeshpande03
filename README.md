@@ -15,6 +15,6 @@
 
 <div align="center">
 	<a href="https://github.com/adeshpande03/LeetCode-Points-Graph">
-		<img src="points_graph.png" width="800" height="250" alt="LeetCode points graph for @impgriffin (me!)">
+		<img src="points_graph.png" width="800" height="250" alt="LeetCode points graph for @impgriffin (me!)" style="border-radius: 10px;">
 	</a>
 </div>
