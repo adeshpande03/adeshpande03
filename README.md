@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://github.com/adeshpande03/adeshpande03/blame/main/header.svg">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+		<img src="header.svg" width="800"  alt="Click to see the source">
 	</a>
 </div>
 
